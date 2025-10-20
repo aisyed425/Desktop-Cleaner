@@ -8,4 +8,6 @@ Cleans up your desktop by moving files to specific folders.
 
 # Prerequisites
 Python should be installed on your system
+Install dependencies (only once):
+pip install watchdog
 
