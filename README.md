@@ -7,7 +7,7 @@ Cleans up your desktop by moving files to specific folders.
 - Needs to be able to find all file types to check what file was added
 
 # Prerequisites
-Python should be installed on your system
-Install dependencies (only once):
-pip install watchdog
+- Python should be installed on your system
+- Install dependencies (only once):
+- --pip install watchdog
 
