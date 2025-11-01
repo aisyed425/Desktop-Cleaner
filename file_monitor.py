@@ -1,5 +1,5 @@
 #Make sure you replace all placeholders with the required text 
-#Credits: Yo
+#Credits: 
 
 
 import os
