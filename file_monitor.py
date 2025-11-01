@@ -1,7 +1,6 @@
 #Make sure you replace all placeholders with the required text 
 #Credits: 
 
-
 import os
 import time
 from watchdog.observers import Observer
