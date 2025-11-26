@@ -1,5 +1,4 @@
 #Make sure you replace all placeholders with the required text 
-#Credits: Myself, Youtube
 
 import os
 import time
