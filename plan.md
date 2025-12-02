@@ -11,6 +11,7 @@ Backend: Node.js filesystem (fs), chokidar for watch, node-fetch if needed.
 Packaging: electron-builder (creates Windows .exe, macOS .dmg, Linux .AppImage)
 
 Setting Milestones:
+
 Part 1 
 - Create Electron + React scaffold
 - Make the app open a window
