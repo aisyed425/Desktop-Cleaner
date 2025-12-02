@@ -12,8 +12,11 @@ Packaging: electron-builder (creates Windows .exe, macOS .dmg, Linux .AppImage)
 
 Setting Milestones:
 Part 1 
+
 1 - Create Electron + React scaffold
 2 - Make the app open a window
 
 Part 2 
+
 1 - Implement scanner util
+2 - Add categorization
