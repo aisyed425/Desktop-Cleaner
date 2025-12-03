@@ -2,7 +2,7 @@
 
 Planning out how to create this.
 
-Tech Stack for this project:
+## Tech Stack for this project:
 
 Frontend: React or plain HTML/CSS
 
