@@ -21,6 +21,8 @@ Part 2
 - Add categorization
 
 ## Final tips
-- Start small (MVP: scan, categorize, preview, dry-run move).
-- Keep safety first (dry-run, undo, move-to-trash).
-- 
+
+- Use a temp directory for tests so you don’t accidentally delete real files.
+- Keep commits small and descriptive; open issues for each feature.
+- Add a “How to contribute” section in README and a Code of Conduct if public.
+
