@@ -9,7 +9,7 @@ folders = {
     "Images": [".png", ".jpg", ".jpeg", ".gif", ".webp"],
     "Documents": [".pdf", ".docx", ".txt", ".pptx", ".xlsx"],
     "Videos": [".mp4", ".mov", ".avi", ".mkv"],
-    "Music": [".mp3", ".wav"],
+    "Audio": [".mp3", ".wav", ".m4a"],
     "Code": [".py", ".js", ".html", ".css", ".cpp", ".java"],
     "Archives": [".zip", ".rar", ".7z"]
 }
