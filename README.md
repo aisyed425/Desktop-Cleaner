@@ -6,7 +6,7 @@ Copy the code and run it in your IDE. IT will move every file into specific fold
 - Archives
 - Code
 - Documents
-- Images
+- Image
 - Music
 - Others
 - Videos
