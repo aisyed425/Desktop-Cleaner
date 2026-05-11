@@ -7,7 +7,7 @@ downloads_path = os.path.join(os.path.expanduser("~"), "Downloads")
 
 # LOG SETUP
 log = []
-ff
+f
 # Create logs folder inside Downloads
 logs_folder = os.path.join(downloads_path, "cleaner_logs")
 os.makedirs(logs_folder, exist_ok=True)
