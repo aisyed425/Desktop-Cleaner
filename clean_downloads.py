@@ -71,5 +71,4 @@ print("Downloads cleaned!\n")
 print("===== LOG SUMMARY =====")
 for entry in log:
     print(entry)
-    print(entry)
 print(f"\nLog saved to: {log_file_path}")
